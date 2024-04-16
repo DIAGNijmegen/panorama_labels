@@ -56,6 +56,16 @@
 </table>
 
 
+<h2>Open-Source Contributions </h2>
+We encourage open-source contributions! For instance, you can contribute expert-derived delineations. If you're interested, feel free to propose PRs for inclusion to this repo. Pending quality control, substantial contributions will be merged in and credited accordingly.
+
+<h2>Citation</h2>
+<p>If you are using this dataset or some part of it, please cite the following article:</p>
+<p><a href="https://zenodo.org/records/10599559">Alves, N., Schuurmans, M., Rutkowski, D., Yakar, D., Haldorsen, I., Liedenbaum, M., Molven, A., Vendittelli, P., Litjens, G., Hermans, J., & Huisman, H. (2024). The PANORAMA Study Protocol: Pancreatic Cancer Diagnosis - Radiologists Meet AI. Zenodo. https://doi.org/10.5281/zenodo.10599559</a></p>
+
+
+
+
 
 
 
