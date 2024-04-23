@@ -1,7 +1,7 @@
 <h1>Annotations for the <a href="https://panorama.grand-challenge.org">PANORAMA challenge</a>: Public Training and Development Dataset</h1>
 
 <h2>Imaging Dataset </h2>
-<p>To download the associated imaging data, visit:</p>
+<p>To download the associated imaging data, visit the <a href="https://panorama.grand-challenge.org/">PANORAMA challenge website</a></p>
 <p>The public training and development set of the <a href="https://panorama.grand-challenge.org">PANORAMA challenge</a> includes 80 patients without PDAC from the <a href="https://www.cancerimagingarchive.net/collection/pancreas-ct/">National Institutes of Health Clinical Center data set</a> and 194 patients (98 PDAC) from the <a href="https://www.nature.com/articles/s41467-022-30695-9">Medical Segmentation Decathlon</a> pancreas dataset (Task07_Pancreas, training set). The differentiation between PDAC and non-PDAC patients in the MSD data set was derived directly from <a href="https://pubmed.ncbi.nlm.nih.gov/33840636/">Suman, et al. (2021)</a>. Patients with a stent were removed in accordance with the PANORAMA study inclusion criteria.</p>
 
 <h2>Reference Standard</h2>
