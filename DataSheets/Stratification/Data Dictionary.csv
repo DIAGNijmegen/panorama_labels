@@ -1,0 +1,11 @@
+﻿Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
+record_id,panorama_annotation,,text,Record ID,,Enter the PANORAMA case identifier exactly.,,,,,,,,,,,
+case_id,panorama_annotation,,text,PANORAMA Case ID,,,,,,,,,,,,,
+label_source,panorama_annotation,,radio,Original PANORAMA label source,"1, Manual (PANORAMA) | 2, AI-generated (PANORAMA)",Whether the distributed PANORAMA label was manually drawn or AI-generated.,,,,,,y,,,,,
+reader,panorama_annotation,,dropdown,Correcting reader,"1, R1 | 2, R2 | 3, R3 | 4, R4 | 5, R5",,,,,,,y,,,,,
+epicenter,panorama_annotation,,checkbox,Tumor epicenter,"1, Head, Uncinate or Neck | 2, Body | 3, Tail | 4, Multifocal / spanning ≥2 segments | 5, Diffuse / indeterminate",,,,,,,y,,,,,
+attenuation,panorama_annotation,,radio,Attenuation pattern,"1, Hypodense | 2, Isodense | 3, Hyperdense",,,,,,,y,,,,,
+cbd_dilatation,panorama_annotation,,yesno,Common bile duct dilatation present?,,,,,,,,y,,,,,
+mpd_dilatation,panorama_annotation,,yesno,Main pancreatic duct dilatation present?,,,,,,,,y,,,,,
+parenchymal_atrophy,panorama_annotation,,yesno,Pancreatic parenchymal atrophy present?,,,,,,,,y,,,,,
+t_stage,panorama_annotation,,radio,T stage (AJCC 8th edition),"1, T1 (2 cm or smaller) | 2, T2 (over 2 cm up to 4 cm) | 3, T3 (over 4 cm) | 4, T4 (celiac axis, superior mesenteric artery, or common hepatic artery involvement) | 5, TX (cannot be assessed)",T4 is defined by arterial involvement regardless of tumor size.,,,,,,y,,,,,
